@@ -1,1 +1,4 @@
-# Default-Payments-of-Credit-Card-Clients-in-Taiwan-from-2005-Prediction-
+This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005. The data set comes from the UCI Machine Learning Repository Irvine, CA: University of California, School of Information and Computer Science.
+
+Number of Instances: 30000
+
